@@ -1,2 +1,1 @@
-# Security-Advisory
-Official Security Advisory for Deathwish Scripts
+More information will be posted at a later date...
