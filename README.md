@@ -9,7 +9,7 @@ This repository contains important security information regarding Deathwish Soft
 * Our official media channels are listed below:
 * Youtube: [Deathwish Software](https://www.youtube.com/channel/UC4ynfXz6wV_rdQmsGApe1PQ)
 
-## Contact Infomation
+## Contact Information
 * Discord: eleven#1337
 
 ### Credits
