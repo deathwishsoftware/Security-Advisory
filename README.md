@@ -2,8 +2,7 @@
 This repository contains important security information regarding Deathwish Software.
 
 ## General Information
-* Deathwish **isn't** available to the general public currently. We highly recommend you to **NOT** install or download any files claiming to be **Deathwish** .
-* We do **NOT** have circulating files on the internet so you can **certaintly guarantee** that the file is not ours.
+* Deathwish is now available for purchase and download as of 4/21/2022, We only recommend you install official executables via our official download links.
 
 ## Social Media Accounts
 * Our official media channels are listed below:
